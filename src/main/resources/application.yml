@@ -17,5 +17,5 @@ eureka:
 
 security:
   user:
-    name: {username}
-    password: {password}
+    name: user
+    password: password
